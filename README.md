@@ -1,4 +1,4 @@
-# mysql_replication
+# mysql_replication_master_to_master
 
 ###
 ##### On Master Server 1
